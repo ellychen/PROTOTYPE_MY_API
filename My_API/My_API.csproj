@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="External\" />
+    <Folder Include="Controller\" />
+    <Folder Include="Extension\" />
+    <Folder Include="Operation\Common\" />
+    <Folder Include="Operation\OOP\" />
+  </ItemGroup>
+
+</Project>
